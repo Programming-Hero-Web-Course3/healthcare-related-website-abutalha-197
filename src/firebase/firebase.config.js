@@ -1,9 +1,9 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyCIvZ2PdazQ4ueyDY_HVb7hksId8uyH9nQ",
-    authDomain: "simple-firebase-authenti-80626.firebaseapp.com",
-    projectId: "simple-firebase-authenti-80626",
-    storageBucket: "simple-firebase-authenti-80626.appspot.com",
-    messagingSenderId: "833271005404",
-    appId: "1:833271005404:web:3f7cac8c1f649b28767419"
+    apiKey: "AIzaSyBDgto3JIwxsZkFFipWy9pZGJEXZRi8u0A",
+    authDomain: "talhamedicare-2d4d2.firebaseapp.com",
+    projectId: "talhamedicare-2d4d2",
+    storageBucket: "talhamedicare-2d4d2.appspot.com",
+    messagingSenderId: "168684709662",
+    appId: "1:168684709662:web:e93090a0530d1b5f46cb0f"
 };
 export default firebaseConfig;
