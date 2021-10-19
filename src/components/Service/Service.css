@@ -1,0 +1,7 @@
+.service{
+    border: 1px solid #D8D8D8;
+}
+.service img{
+    height: 300px;
+    width: 100%;
+}

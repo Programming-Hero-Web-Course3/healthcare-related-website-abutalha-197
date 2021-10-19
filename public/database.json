@@ -1,0 +1,44 @@
+[
+    {
+        "id" : "1",
+        "title" : "JUNIOR EXECUTIVE CHECK-UP (JEC)",
+        "short_description" : "Complete Blood Count (CBC). Blood Suger (Fastimg and 2 hour ABF).Urine Suger (Fasting and 2 hour ABF)",
+        "description" : "Complete Blood Count (CBC).Blood Suger (Fastimg and 2 hour ABF).Urine Suger (Fasting and 2 hour ABF).Serum Lipid Profile (Fasting).Kidney Function Test: (Blood Urea, Serum Creatinine, Serum Uric Acid, Serum Electrolytes, Urine R/M/E).ECG. X-Ray Chest P/A view",
+        "img" : "https://images.pexels.com/photos/3908179/pexels-photo-3908179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id" : "2",
+        "title" : "EXECUTIVE CHECK-UP (EC)",
+        "short_description" : "Complete Blood Count (CBC).Blood Grouping and Rh Factor.Blood Suger (Fastimg and 2 hour ABF)",
+        "description" : "Complete Blood Count (CBC).Blood Grouping and Rh Factor.Blood Suger (Fastimg and 2 hour ABF).Urine Suger (Fasting and 2 hour ABF).Serum Lipid Profile (Fasting).Liver Function Test (Serum Bilirubin, SGPT, SGDT, Alkaline Phosphatase, Total Protein, A:G Ratio).HBsAg.Kidney Function Test: (Serum Creatinine, Serum Uric Acid, Urine R/M/E).X-Ray Chest P/A view.ECG.USG of Whole Abdomen.Echocardiogram",
+        "img" : "https://images.pexels.com/photos/8460349/pexels-photo-8460349.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id" : "3",
+        "title" : "COMPREHENSIVE CARDIAC CHECK-UP (CCC)",
+        "short_description" : "Complete Blood Count (CBC).Blood Sugar (Fasting and PP).Serum Lipid Profile (F)",
+        "description" : "Complete Blood Count (CBC).Blood Sugar (Fasting and PP).Serum Lipid Profile (F).Liver Function Test (Serum Bilirubin, SGPT, Alkaline Phosphatase, Total Protein, A:G Ratio).Kidney Function Test: (Blood Urea, Serum Creatinine, Serum Uric Acid, Serum Electrolytes, Urine R/M/E).Blood Grouping and Rh factor.ECG.X-Ray Chest P/A view.Exercise Tolerance Test (TMT) or Echo Doppler Study",
+        "img" : "https://images.pexels.com/photos/9099821/pexels-photo-9099821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id" : "4",
+        "title" : "SENIOR EXECUTIVE CHECK-UP (SEC)",
+        "short_description" : "Complete Blood Count (CBC). Blood Suger (Fastimg and 2 hour ABF).Serum Lipid Profile (F)",
+        "description" : "Complete Blood Count (CBC).Blood Suger (Fastimg and 2 hour ABF).Urine Suger (Fasting and 2 hour ABF).Serum Lipid Profile (Fasting).Kidney Function Test: (Blood Urea, Serum Creatinine, Serum Uric Acid, Serum Electrolytes, Urine R/M/E).ECG. X-Ray Chest P/A view",
+        "img" : "https://images.pexels.com/photos/5721687/pexels-photo-5721687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id" : "5",
+        "title" : "DIABETIC CHECK-UP(DC)",
+        "short_description" : "Complete Blood Count (CBC).Blood Sugar (Fasting and PP).Serum Lipid Profile (Fasting)",
+        "description" : "Complete Blood Count (CBC).Blood Sugar (Fasting and PP).Serum Lipid Profile (Fasting).HbA1C.Kidney Function Test: (Blood Urea, Serum Creatinine, Serum Uric Acid, Serum Electrolytes, Urine R/M/E).X-Ray Chest P/A view.ECG.USG of Whole Abdomen",
+        "img" : "https://images.pexels.com/photos/6303712/pexels-photo-6303712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id" : "6",
+        "title" : "ORAL AND DENTAL CHECK-UP (ODC)",
+        "short_description" : "Oral hygiene screening.Dentition assessment.Periodontal Condition Assessment",
+        "description" : "Oral hygiene screening.Dentition assessment.Periodontal Condition Assessment.Oral Mucosal Condition Assessment.Oral Structure Assessment",
+        "img" : "https://images.pexels.com/photos/5355828/pexels-photo-5355828.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+]
